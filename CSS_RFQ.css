@@ -1,0 +1,30 @@
+body {
+  background-color: #000000;
+  font-family: 'Indie Flower', cursive, sans-serif;
+  margin: 10px;
+  margin-top: 100px;
+}
+
+#quote {
+  color: #ffff00;
+  font-size: 28px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#newQuote {
+  transition: all .4s ease;
+  background-color: #ff0000;
+  border-color: #ffffff;
+  font-family: 'Indie Flower', cursive, sans-serif;
+}
+
+#newQuote:hover {
+  cursor: pointer;
+  background-color: #bb0000;
+}
+
+
+#tweet {
+  border-color: #ffffff;
+}
